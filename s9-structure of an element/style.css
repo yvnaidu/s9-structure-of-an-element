@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+#mainHeading{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    border: 10px solid;
+    border-radius: 50px;
+}
+img{
+    width: 200px;
+}
+.player{
+    border: 10px inset black;
+    margin: 20px;
+    
+}
+#dhoni{
+    background-color: greenyellow;
+    padding: 30px;
+    box-sizing: content-box;
+
+}
+#jadeja{
+    box-sizing: border-box;
+    padding: 20px;
+    border: 10px double deeppink;
+
+}
